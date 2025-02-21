@@ -10,6 +10,9 @@
   
 ### DESCRIPTION
 This project analyzes marketing ad campaigns for an online grocery store. Its goal is to optimize ad spending and enhance business outcomes. 
+![PLATFORM ANALYSIS](https://github.com/user-attachments/assets/e120d683-91ed-4adb-88c1-04ca843636cf)
+
+![CAMPAIGN ANALYSIS](https://github.com/user-attachments/assets/cd3435f1-ddfb-4841-8b0c-00e4befc2446)
 
 ###  BUSINESS OVERVIEW AND PROBLEM STATEMENT
 FreshCart, a leading e-commerce grocery platform, depends heavily on digital advertising to grow its customer base and maintain customer loyalty. However, with rising competition and unpredictable advertising costs, the company is facing two significant challenges:  
