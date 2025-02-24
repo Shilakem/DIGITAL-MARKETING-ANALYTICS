@@ -33,7 +33,7 @@ By implementing marketing analytics, FreshCart can:
 These insights will empower FreshCart to make smarter, data-driven decisions and achieve better outcomes from its advertising investments. 
 
 ###  AIM OF THE PROJECT
-This project aims to analyze FreshCart's past advertising data and create a strategy to optimize their digital ad spending. 
+This project aims to analyze FreshCart's past advertising data and create a strategy to optimize its digital ad spending. 
 The specific objectives are:
 ####  A. Evaluate the effectiveness of current advertising campaigns across platforms.
 ####  B. Identify top-performing channels for advertising.
