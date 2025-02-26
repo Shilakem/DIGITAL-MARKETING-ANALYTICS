@@ -1,7 +1,8 @@
 # DIGITAL MARKETING ANALYTICS - FreshCart AD Spend
 
-![PLATFORM ANALYSIS](https://github.com/user-attachments/assets/efbffa12-fae4-4933-b71e-ff74a40bdce8)
-![CAMPAIGN ANALYSIS](https://github.com/user-attachments/assets/5a0bf81e-621a-4e70-b926-e192839985bd)
+![PLATFORM ANALYSIS](https://github.com/user-attachments/assets/54ba869a-1fcd-4be0-8fda-bd77ddaf0331)
+
+![CAMPAIGN ANALYSIS](https://github.com/user-attachments/assets/0afbadbf-adf5-46ab-9c97-88eba3bd3a11)
 
 ### DESCRIPTION
 This project analyzes marketing ad campaigns for an online grocery store. Its goal is to optimize ad spending and enhance business outcomes. 
