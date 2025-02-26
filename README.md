@@ -1,18 +1,12 @@
 # DIGITAL MARKETING ANALYTICS - FRESHCART AD SPEND
-##  TABLE OF CONTENT
-- [DESCRIPTION](description)
-- [BUSINESS OVERVIEW AND PROBLEM STATEMENT](business-overview-and-problem-statement)
-- [PROJECT RATIONALE](project-rationale)
-- [AIM OF THE PROJECT](aim-of-the-project)
-- [PROCESSES](processes)
-- [INSIGHTS](insights)
-- [RECOMMENDATIONS](recommendations)
+
+![Platform analysis](https://github.com/user-attachments/assets/9145da41-e2a1-4c69-ba7e-c00b04357963)
+
+![Campaign Analysis](https://github.com/user-attachments/assets/e6481fea-5651-4061-8a4c-f1e946e97ade)
+
   
 ### DESCRIPTION
 This project analyzes marketing ad campaigns for an online grocery store. Its goal is to optimize ad spending and enhance business outcomes. 
-![PLATFORM ANALYSIS](https://github.com/user-attachments/assets/e120d683-91ed-4adb-88c1-04ca843636cf)
-
-![CAMPAIGN ANALYSIS](https://github.com/user-attachments/assets/cd3435f1-ddfb-4841-8b0c-00e4befc2446)
 
 ###  BUSINESS OVERVIEW AND PROBLEM STATEMENT
 FreshCart, a leading e-commerce grocery platform, depends heavily on digital advertising to grow its customer base and maintain customer loyalty. However, with rising competition and unpredictable advertising costs, the company is facing two significant challenges:  
