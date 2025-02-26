@@ -1,4 +1,4 @@
-# DIGITAL MARKETING ANALYTICS - FRESHCART AD SPEND
+# DIGITAL MARKETING ANALYTICS - FreshCart AD Spend
 
 ![Platform analysis](https://github.com/user-attachments/assets/9145da41-e2a1-4c69-ba7e-c00b04357963)
 
